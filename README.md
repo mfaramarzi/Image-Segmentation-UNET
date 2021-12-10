@@ -1,6 +1,6 @@
 # Image-Segmentation-UNET
 
-![](images/seg_img.gif)
+![Segmented Image](images/seg_img.gif)
 
 
-![](images/raw_img.tif)
+![Raw Image](images/raw_img.tif)
